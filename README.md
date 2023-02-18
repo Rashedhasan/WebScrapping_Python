@@ -5,5 +5,6 @@ pip install beautifulsoup4
 pip install lxml
 pip install requests
 
-run webscrapping.py using jupyter-notebook
+webscrapping.py is used to find data from static html documents
+jobs_web_scrapping.py is used to find company name and title from a specific websites.
 
